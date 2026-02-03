@@ -12,3 +12,8 @@ Robotics kinematics studies robot motion without considering the forces involved
 |-----------:|:-----:|-------------|
 |1| 2     | 0         | 0    | +90°  |
 | 2      | d2     | L1    |0°   |
+
+
+### Exercise 2
+![Diagrama del sistema](../recursos/imgs/Ex2HH.jpg)
+![Diagrama del sistema](../recursos/imgs/tablahh.jpg)
