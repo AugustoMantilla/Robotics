@@ -127,3 +127,5 @@ On the other hand, the node includes a service server named /reset_counter, usin
 In the following image you can see the code working in the terminals, one is sending a message, the other one is reciving the message sent by the other terminal and the last one resets the counter to zero.
 
 ![Diagrama del sistema](../recursos/imgs/reset.jpg)
+
+![Diagrama del sistema](../recursos/imgs/ros2activitycaptura.png)
