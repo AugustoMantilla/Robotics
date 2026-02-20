@@ -17,4 +17,20 @@ In this activity, the kinematic modeling of two industrial manipulators will be 
 | 3          | 0     |  θ3         | 0  |-π/2|
 | 4          | -630  |  θ4         | 0  | π/2|
 | 5          | 0     |  θ5         | 0  |-π/2|
-| 6          | -135  |  θ6         | θ  | 0  |
+| 6          | -135  |  θ6         | 0  | 0  |
+
+## UR
+![Diagrama del sistema](../recursos/imgs/ur.png)
+
+### Schematic diagram
+![Diagrama del sistema](../recursos/imgs/ur_sch.png)
+
+### D-H Table
+| Joint      | d     | θ           | a  |  α |
+|-----------:|:-----:|:-----------:|:--:|--  |
+| 1          | 162   |  θ1 + π/2   | 0  |π/2 |
+| 2          | 0     |  θ2  + π/2  |425 | 0  |
+| 3          | 0     |  θ3         | 392| 0  |
+| 4          | 133   |  θ4 -π/2    | 0  |-π/2|
+| 5          | 100   |  θ5         | 0  | π/2|
+| 6          | 42    |  θ6 + π/2   | 0  | 0  |
