@@ -219,7 +219,7 @@ if __name__ == '__main__':
 
 ## Results
 ![Diagrama del sistema](../recursos/imgs/ROS2TurtleCMD.png)
-![Diagrama del sistema](../recursos/imgs/TurtleCatching.png)
+![Diagrama del sistema](../recursos/imgs/TurtleCatching2.jpg)
 ![Diagrama del sistema](../recursos/imgs/TurtleRQT.png)
 
 ## Conclusion
