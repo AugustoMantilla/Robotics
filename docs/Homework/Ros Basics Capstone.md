@@ -574,4 +574,4 @@ if __name__ == '__main__':
 
 ## Results
 
-<img src="../recursos/imgs/result_turtle.gif" alt="Turtle catcher result" width="800">
+![Diagrama del sistema](../recursos/imgs/result_turtle.gif)
